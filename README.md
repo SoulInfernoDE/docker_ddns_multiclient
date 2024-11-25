@@ -8,7 +8,7 @@ Use [DomainConnectDDNS-Python](https://github.com/Domain-Connect/DomainConnectDD
     "Download" the image
 
 
-### Run container
+### Run container (IMPORTANT! RUN THE CONTAINER IN NETWORK=HOST ESP. IF YOU ARE USING IPv6)
     - Go to the synology Image tab, select "ddns_multiclient" and press "Run":
     
 ![grafik](https://github.com/user-attachments/assets/6e00355e-af8a-4b89-a984-1e58ad00ad90)
