@@ -1,4 +1,4 @@
-# ddns_multiclient
+# ddns_multiclient [![Docker Build Cloud](https://github.com/SoulInfernoDE/docker_ddns_multiclient/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/SoulInfernoDE/docker_ddns_multiclient/actions/workflows/build.yml)
 Use [DomainConnectDDNS-Python](https://github.com/Domain-Connect/DomainConnectDDNS-Python) in a docker container, which executes the update command every 15 minutes. I do not know which providers are supported by this tool. I use it for [IONOS](https://www.ionos.com).
 
 ## Usage
